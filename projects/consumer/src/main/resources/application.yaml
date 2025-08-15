@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kraken-order-book-consumer
+server:
+  port: 8080
